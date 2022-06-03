@@ -8,7 +8,8 @@ A free mixin-based injection hacked-client for Minecraft using Minecraft Forge b
 
 Website: https://FDPClient.club  
 Latest: [github-actions](https://github.com/UnlegitMC/FDPClient/actions/workflows/build.yml?query=event%3Apush)    
-Discord: https://discord.gg/55x7TaHWXG  
+Discord: https://discord.gg/55x7TaHWXG
+Telegram: https://t.me/FDPClient_official
 
 ## Issues
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/UnlegitMC/FDPClient/issues).
